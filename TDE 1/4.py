@@ -1,0 +1,2 @@
+produto = float(input("Digite o valor do produto: "))
+print(f" {produto * 0.95} é o valor avista \n{produto / 2} é o valor parcelado em 2 vezes\n{(produto * 1.05) / 3} é o valor parcelado em 3 vezes com juros")
